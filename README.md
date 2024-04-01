@@ -1,1 +1,1 @@
-# Machine_Learning_Odev
+Makine öğrenmesi lab ödevleri
