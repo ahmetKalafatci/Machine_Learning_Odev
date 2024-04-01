@@ -1,1 +1,1 @@
-Makine öğrenmesi lab ödevleri
+Makine öğrenmesi lab ödevleri.
